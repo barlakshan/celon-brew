@@ -5,7 +5,7 @@ import coffee from "../../assets/bg/coffeeanima.json"; // Ensure the correct pat
 import { motion } from "framer-motion";
 
 // Styling for the background image
-const Bg= {
+const bgImage = {
   backgroundImage: `url(${Bg})`,
   backgroundColor: "#270c03", 
   backgroundPosition: "center",
