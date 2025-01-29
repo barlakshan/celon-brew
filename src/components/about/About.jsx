@@ -1,5 +1,5 @@
 import React from "react";
-import Bg from "/src/assets/bg/Bg.png";
+import Bg from "../../assets/bg/Bg.png";
 import Lottie from "lottie-react";
 import coffee from "../../assets/bg/coffeeanima.json"; // Ensure the correct path
 import { motion } from "framer-motion";
