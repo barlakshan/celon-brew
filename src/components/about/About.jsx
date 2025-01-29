@@ -1,12 +1,12 @@
 import React from "react";
-import BgImage from "../../assets/bg/Bg.png"; // Ensure the correct path
+import Bg from "/src/assets/bg/Bg.png";
 import Lottie from "lottie-react";
 import coffee from "../../assets/bg/coffeeanima.json"; // Ensure the correct path
 import { motion } from "framer-motion";
 
 // Styling for the background image
-const bgImage = {
-  backgroundImage: `url(${BgImage })`,
+const Bg= {
+  backgroundImage: `url(${Bg})`,
   backgroundColor: "#270c03", 
   backgroundPosition: "center",
   backgroundRepeat: "no-repeat",
