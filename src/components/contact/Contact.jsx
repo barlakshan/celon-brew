@@ -1,5 +1,5 @@
 import React from "react";
-import Bg from "../../assets/bg/bg.png";
+import Bg from "../../assets/bg/Bg.png";
 import { motion } from "framer-motion";
 
 const bgImage = {
