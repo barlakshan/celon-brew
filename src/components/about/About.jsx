@@ -58,10 +58,8 @@ const About = () => {
             we believe that every cup tells a story. <br /><br/>
             Sourced from the lush highlands of Sri Lanka, our beans are
             carefully handpicked from sustainable farms, ensuring quality and
-            authenticity in every sip.
-            <br /><br/>
-            Our expert roasters bring out the unique flavors of Ceylon coffee,
-            balancing bold aromas with smooth, rich textures. From farm to cup,
+            authenticity in every sip. Our expert roasters bring out the unique flavors of Ceylon coffee,
+            balancing bold aromas with smooth, rich textures. <br /><br/> From farm to cup,
             we are committed to honoring time-honored techniques while embracing
             modern innovations to craft the perfect brew. Whether you enjoy a
             classic black coffee, a velvety latte, or a unique spiced infusion,
