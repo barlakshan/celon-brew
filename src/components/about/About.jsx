@@ -38,12 +38,16 @@ const About = () => {
                 initial={{opacity:0,y:100}}
                 whileInView={{opacity:1,y:0}}
                 transition={{duration:1.5, delay:0.5}}
-              className='text-2xl font-sriracha text-amber-900'>Passion for Perfect Brew</motion.h1>
+              className='text-2xl font-sriracha text-amber-900'>Ceylon Brew – A Taste of Authentic Sri Lankan Coffee</motion.h1>
               <motion.p 
                 initial={{opacity:0,y:100}}
                 whileInView={{opacity:1,y:0}}
                 transition={{duration:1.5, delay:0.6}}
-              className='font-poppins'>Founded in 2010, Bean Haven started as a small coffee cart in the heart of the city. Our founder, Jane Doe, had a vision to bring the finest, ethically sourced coffee to our community. What began as a love for the perfect cup of joe has grown into a thriving business, but our core values remain the same. We believe that great coffee is an art form. From carefully selecting the best beans from sustainable farms around the world to meticulously roasting them to perfection, every step in our process is crafted with love and expertise.</motion.p>
+              className='font-poppins'>Founded in 2015, Ceylon Brew began as a humble coffee stall in the bustling streets of Colombo. Our founder, Cheff. Pabilis Silva, envisioned a space where tradition and craftsmanship come together to celebrate the rich heritage of Sri Lankan coffee.
+
+At Ceylon Brew, we believe that every cup tells a story. Sourced from the lush highlands of Sri Lanka, our beans are carefully handpicked from sustainable farms, ensuring quality and authenticity in every sip. Our expert roasters bring out the unique flavors of Ceylon coffee, balancing bold aromas with smooth, rich textures.
+
+From farm to cup, we are committed to honoring time-honored techniques while embracing modern innovations to craft the perfect brew. Whether you enjoy a classic black coffee, a velvety latte, or a unique spiced infusion, Ceylon Brew is here to bring you the true essence of Sri Lankan coffee culture.</motion.p>
           </div>
         </div>
       </div>
