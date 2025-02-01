@@ -55,11 +55,11 @@ const About = () => {
             bustling streets of Colombo. Our founder, Cheff. Pabilis Silva,
             envisioned a space where tradition and craftsmanship come together
             to celebrate the rich heritage of Sri Lankan coffee. At Ceylon Brew,
-            we believe that every cup tells a story. <br />
+            we believe that every cup tells a story. <br /><br/>
             Sourced from the lush highlands of Sri Lanka, our beans are
             carefully handpicked from sustainable farms, ensuring quality and
             authenticity in every sip.
-            <br />
+            <br /><br/>
             Our expert roasters bring out the unique flavors of Ceylon coffee,
             balancing bold aromas with smooth, rich textures. From farm to cup,
             we are committed to honoring time-honored techniques while embracing
