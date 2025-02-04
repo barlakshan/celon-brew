@@ -9,7 +9,7 @@ Ceylon Brew is a beautifully designed coffee shop frontend that delivers a seaml
 ## 📸 Screenshots
 
 ### Homepage
-<img src="./screenshots/homepage.png" width="600"/>
+<img src="[./screenshots/homepage.png](https://github.com/barlakshan/ceylon-brew/blob/ccc4b1c71b3b571b84a038abcd6d1a73eabcd2f6/home.png)" width="600"/>
 
 ### Menu Page
 <img src="./screenshots/menu.png" width="600"/>
