@@ -1,6 +1,6 @@
 # Ceylon Brew ☕
 
-![Ceylon Brew Banner](./screenshots/banner.png)  
+![Ceylon Brew Banner](https://github.com/barlakshan/ceylon-brew/blob/master/Ceylon%20Brew.png)  
 *A sleek and modern coffee shop frontend built with React.js, Framer Motion, and Tailwind CSS.*
 
 ## 🚀 Project Overview
