@@ -12,10 +12,10 @@ Ceylon Brew is a beautifully designed coffee shop frontend that delivers a seaml
 <img src="home.png" width="600"/>
 
 ### Menu Page
-<img src="./screenshots/menu.png" width="600"/>
+<img src="menu.png" width="600"/>
 
 ### About Us Page
-<img src="./screenshots/about.png" width="600"/>
+<img src="about.png" width="600"/>
 
 ## 🛠️ Features
 - ⚡ **React.js** for a dynamic frontend experience.
